@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Elia 👋
 
 <!--
 **Nataso08/Nataso08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a young guy from Italy.
+- 🏫 I'm frequenting the 4th year of Industrial Automation at Max Planck secondary school.
+- 💻 I like to develop many thinks, in particular solve algorithms and others
