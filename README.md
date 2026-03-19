@@ -31,6 +31,19 @@ Here are some ideas to get you started:
 - 🏅 I usually take part to many IT and technical competions.
 - 🤖 I'm in the school robotic team (FLL & FTC), in witch I'm a developer.
 
+## 🛠️ My Skills
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"/>
+</p>
+
 ## 📲 Can you see my profile there:
 - [Github](https://github.com/Nataso08)
 - [OII](https://training.olinfo.it/user/Nataso08)
