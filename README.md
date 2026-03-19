@@ -48,4 +48,6 @@ Here are some ideas to get you started:
 - [Github](https://github.com/Nataso08)
 - [OII](https://training.olinfo.it/user/Nataso08)
 
+📫 Reach me on github DMs!
+
 
