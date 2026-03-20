@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Projects
 - 🏅 I usually take part to many IT and technical competions.
-- 🤖 I'm in the school robotic team (FLL & FTC), in witch I'm a developer.
+- 🤖 I'm in the school robotic team (FLL & FTC), in which I'm a developer.
 
 ## 🛠️ My Skills
 ### Programming Languages
