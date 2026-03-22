@@ -2,6 +2,10 @@
 
 I'm Elia, a 17 years old student from Italy. Jump in my GitHub profile!
 
+  ![GitHub followers](https://img.shields.io/github/followers/Nataso08?style=social) 
+  ![GitHub User's stars](https://img.shields.io/github/stars/Nataso08?style=social) 
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nataso08.repoName) <img src="https://komarev.com/ghpvc/?username=Nataso08" alt="Nataso08" />
+
 <!--
 **Nataso08/Nataso08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
