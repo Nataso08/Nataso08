@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ## 📲 Can you see my profile there:
 - [![GitHub](https://img.shields.io/badge/GitHub-Nataso08-black?logo=github)](https://github.com/Nataso08)
-- [![OII](https://img.shields.io/badge/OII-Olimpiadi%20Italiane%20di%20Informatica-32651f)](https://training.olifo.it/user/Nataso08)
+- [![OII](https://img.shields.io/badge/OII-Olimpiadi%20Italiane%20di%20Informatica-32651f)](https://training.olinfo.it/user/Nataso08)
 
 <br>
 
