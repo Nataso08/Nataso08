@@ -37,11 +37,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white"/>
 </p>
 
 ### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AS-white?logo=androidStudio&logoColor=green"/>
 </p>
 
 ## 📲 Can you see my profile there:
