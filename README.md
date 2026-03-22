@@ -60,6 +60,12 @@ Here are some ideas to get you started:
   -->
   <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white"/>
+</p>
+
+### Enbedded & IOT
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
 </p>
 
 ### Text Formatter
