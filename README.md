@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
 </p>
 
-### Electronics & 3D
+### Electronics & CAD 
 <p>
   <img src="https://img.shields.io/badge/Multisim-534a8c?logo=Multisim&logoColor=white"/>
   <img src="https://img.shields.io/badge/LTspice-800000?logo=ltspice&logoColor=white"/>
