@@ -61,6 +61,7 @@ Here are some ideas to get you started:
   -->
   <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailscale-Enabled-00AEEF?logo=tailscale&logoColor=white"/>
 </p>
 
 ### Electronics & CAD 
