@@ -55,12 +55,20 @@ Here are some ideas to get you started:
 ### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/GitHub-7e30a1?logo=github&logoColor=fff"/>
   <!-- 
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/> 
   -->
   <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
+</p>
+
+### Electronics & 3D
+<p>
+  <img src="https://img.shields.io/badge/Multisim-534a8c?logo=Multisim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LTspice-800000?logo=ltspice&logoColor=white"/>
   <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoCAD-de0f4d?logo=autocad&logoColor=white"/>
 </p>
 
 ### Enbedded & IOT
