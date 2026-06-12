@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Projects
 - 🏅 I usually take part to many IT and technical competions.
-- 🤖 I'm in the school robotic team (FLL & FTC), in which I'm a developer.
+- 🤖 I'm in the school robotic team, [Planck Team](https://github.com/PlanckTeam) (FLL & FTC), in which I'm a developer.
 
 ## 💪 My Skills
 ### Programming Languages
@@ -43,13 +43,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-</p>
-
-### Package Manager
-<p>
-  <img src="https://img.shields.io/badge/winget-Windows%20Package%20Manager-blue?style=flat&logo=windows"/>
-  <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"/>
 </p>
 
 ### Tools
