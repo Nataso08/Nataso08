@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Elia, a 17 years old student from Italy. Jump in my GitHub profile!
+I'm Elia, a 18 years old student from Italy. Jump in my GitHub profile!
 
   ![GitHub followers](https://img.shields.io/github/followers/Nataso08?style=social) 
   ![GitHub User's stars](https://img.shields.io/github/stars/Nataso08?style=social) 
